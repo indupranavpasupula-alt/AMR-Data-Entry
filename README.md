@@ -89,7 +89,7 @@ also writes a few summary files into `outputs/`:
 
 ## Why the code looks the way it does
 
-I kept things simple on purpose — plain loops and if/else statements rather
-than fancier Python tricks — mostly because that's how I actually code, but
+I kept things simple on purpose, plain loops and if/else statements rather
+than fancier Python tricks, mostly because i seeked help from various online tutorials, but
 also so it's easy for me (or anyone else) to come back later and understand
 what's going on.
